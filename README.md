@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img align="left" width="200" height="200" src="https://avatars3.githubusercontent.com/u/1154819?s=400&u=e3bcfeda0bfa4b7ec124835b5768166ddd038792&v=4">
+  <img align="left" width="600" height="600" src="https://avatars3.githubusercontent.com/u/1154819?s=400&u=e3bcfeda0bfa4b7ec124835b5768166ddd038792&v=4">
   
 ### My personal profile since **README.md** file from GitHub
 ---
@@ -30,6 +30,11 @@ My Name is Hernando Enrique Moreno Moreno.  I'm...
 ---
 # My knowledge
 ### :computer: Main programming languages & development technologies
+
+<p align="left">
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="60" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
+</p>
+<!--
 [![Generic badge](https://img.shields.io/badge/NodeJS-30%25-brightgreen.svg?style=flat&logo=Node.js)](https://nodejs.org/)
 [![Generic badge](https://img.shields.io/badge/JavaScript-70%25-brightgreen.svg?style=flat&logo=javascript)](https://javascript.info/)
 [![Generic badge](https://img.shields.io/badge/TypeScript-57%25-brightgreen.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/docs/home.html)
@@ -39,7 +44,8 @@ My Name is Hernando Enrique Moreno Moreno.  I'm...
 [![Generic badge](https://img.shields.io/badge/JSON-95%25-brightgreen.svg?style=flat&logo=json)](https://www.json.org/json-en.html)
 [![Generic badge](https://img.shields.io/badge/Markdown-50%25-brightgreen.svg?style=flat&logo=markdown)](https://www.markdownguide.org/getting-started/)
 [![Generic badge](https://img.shields.io/badge/NPM-✓-brightgreen.svg?style=flat&logo=npm)](https://www.npmjs.com/~jasp402)
-<br>
+
+
 ### :floppy_disk: Database technologies & Structured Query Language
 [![Generic badge](https://img.shields.io/badge/MongoDB-30%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mongodb)](https://docs.mongodb.com/)
 [![Generic badge](https://img.shields.io/badge/MySQL-80%25-brightgreen.svg?style=flat&labelColor=40A4C4&logo=mysql)](https://shields.io/)
@@ -66,10 +72,11 @@ My Name is Hernando Enrique Moreno Moreno.  I'm...
 [![Generic badge](https://img.shields.io/badge/Selenium-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.selenium.dev/)
 [![Generic badge](https://img.shields.io/badge/WDIO-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://webdriver.io/)
 [![Generic badge](https://img.shields.io/badge/Sequelize-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://sequelize.org/)
-[![Generic badge](https://img.shields.io/badge/Fluent%20UI-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://developer.microsoft.com/en-us/fluentui#/)
+[![Generic badge](https://img.shields.io/badge/Fluent%60UI-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://developer.microsoft.com/en-us/fluentui#/)
 [![Generic badge](https://img.shields.io/badge/Puppeteer-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://pptr.dev/)
 [![Generic badge](https://img.shields.io/badge/AutoIt-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.autoitscript.com/site/)
-[![Generic badge](https://img.shields.io/badge/UI%20Path-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.uipath.com/es/)
+[![Generic badge](https://img.shields.io/badge/UI%60Path-✓-brightgreen.svg?style=flat&labelColor=106d9f)](https://www.uipath.com/es/)
 
 
 ---
+-->
